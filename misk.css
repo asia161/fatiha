@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height:100vh ;
+}
+.from-container{
+
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow:0 4px rgba(0,0,0, 0.1);
+    text-align: center;
+    width: 400px;
+}
+h1{
+    font-size: 23px;
+    margin-bottom:5px ;
+    color: #333;
+
+}
+p{
+color: #666;
+font-size:12px ;
+margin-bottom: 2opx;
+
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+     gap: 15px;
+}
+.from-group{
+    display: flex;
+    
+}
